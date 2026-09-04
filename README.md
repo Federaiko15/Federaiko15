@@ -13,12 +13,13 @@ Software engineering student based in Italy, passionate about building clean and
 ## 🔭 Currently working on
 
 - 🃏 **[Piatto-Card-Game](https://github.com/Federaiko15/Piatto-Card-Game)** — browser-based card game with a Node.js/Express backend and a React + TypeScript frontend
-- 🖥️ **[WINDOWSFLOW](https://github.com/Federaiko15/WINDOWSFLOW)** — a Windows desktop app that automatically switches theme and keyboard layout when specific peripherals are connected, fully customizable by the user
+- 🖥️ **[WIKIANNOTATION](https://github.com/Federaiko15/WIKIANNOTATION)** — a web app for creating an infografic map from a wikipedia article, build with next.js 
 
 ## 🌱 Currently learning
 
-- Angular
+- Next.js
 - Python
+- Laravel and PHP
 
 ## 📫 Reach me
 
